@@ -8,7 +8,7 @@ plugins {
     id("org.springframework.boot") version "2.3.1.RELEASE"
     id("io.spring.dependency-management") version "1.0.9.RELEASE"
     id("com.github.node-gradle.node") version "2.2.4"
-    id("org.jetbrains.dokka") version "0.10.1"
+    id("org.jetbrains.dokka") version "0.11.0-dev-59"
     id("com.github.ksoichiro.build.info") version "0.2.0"
 
     val KOTLIN_VERSION = "1.4.0"
