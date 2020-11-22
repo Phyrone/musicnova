@@ -118,7 +118,7 @@ dependencies {
     implementation("me.tongfei:progressbar:0.8.1")
     implementation("com.sedmelluq:lavaplayer:1.3.50")
     implementation("com.github.theholywaffle:teamspeak3-api:1.2.0")
-    implementation("com.github.manevolent:ts3j:1.0.1")
+    implementation("com.github.manevolent:ts3j:1.0.2")
     implementation("net.dv8tion:JDA:4.2.0_203")
     implementation("com.github.Phyrone:brigardier-kotlin:1.3.3")
     implementation("com.zaxxer:HikariCP:3.4.5")
