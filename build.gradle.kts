@@ -166,7 +166,7 @@ dependencies {
     implementation("com.github.marceloaguiarr:valkyrie:1.2.0")
 
     implementation("org.greenrobot:eventbus:3.2.0")
-    implementation("com.google.guava:guava:30.0-jre")
+    implementation("com.google.guava:guava:30.1-jre")
     implementation("org.jgrapht:jgrapht-core:1.5.0")
     implementation("com.jcabi:jcabi-manifests:1.1")
     implementation("com.google.jimfs:jimfs:1.1")
