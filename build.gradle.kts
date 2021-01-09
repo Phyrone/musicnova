@@ -105,7 +105,7 @@ dependencies {
     testImplementation("org.springframework.batch:spring-batch-test")
 
 
-    implementation("info.picocli:picocli:4.5.2")
+    implementation("info.picocli:picocli:4.6.1")
     //kapt("info.picocli:picocli-codegen:4.4.0")
 
     implementation("com.github.oshi:oshi-core:5.3.6")
