@@ -5,7 +5,7 @@ import com.moowork.gradle.node.npm.NpmTask
 plugins {
     idea
     java
-    id("org.springframework.boot") version "2.4.0"
+    id("org.springframework.boot") version "2.4.1"
     id("io.spring.dependency-management") version "1.0.10.RELEASE"
     id("com.github.node-gradle.node") version "2.2.4"
     id("org.jetbrains.dokka") version "1.4.20"
