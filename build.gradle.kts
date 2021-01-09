@@ -149,7 +149,7 @@ dependencies {
     //kapt("org.inferred:freebuilder:2.7.0")
     implementation("org.inferred:freebuilder:2.6.1")
 
-    implementation("org.jline:jline:3.17.1")
+    implementation("org.jline:jline:3.18.0")
     implementation("net.java.dev.jna:jna:5.6.0")
 
     implementation("com.eclipsesource.j2v8:j2v8_linux_x86_64:6.2.0")
