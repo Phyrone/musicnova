@@ -108,7 +108,7 @@ dependencies {
     implementation("info.picocli:picocli:4.6.1")
     //kapt("info.picocli:picocli-codegen:4.4.0")
 
-    implementation("com.github.oshi:oshi-core:5.3.6")
+    implementation("com.github.oshi:oshi-core:5.3.7")
     implementation("com.fasterxml.jackson.dataformat:jackson-dataformat-csv:2.12.1")
     implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.11.+")
     implementation("com.google.zxing:core:3.4.1")
