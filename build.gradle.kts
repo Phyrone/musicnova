@@ -121,7 +121,7 @@ dependencies {
     implementation("com.github.manevolent:ts3j:1.0.2")
     implementation("net.dv8tion:JDA:4.2.0_227")
     implementation("com.github.Phyrone:brigardier-kotlin:1.4.0")
-    implementation("com.zaxxer:HikariCP:3.4.5")
+    implementation("com.zaxxer:HikariCP:4.0.1")
     implementation("org.xeustechnologies:jcl-core:2.8")
     implementation("de.vandermeer:asciitable:0.3.2")
     implementation("com.github.excitement-engineer:ktor-graphql:2.0.0") {
