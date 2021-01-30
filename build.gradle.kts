@@ -124,7 +124,7 @@ dependencies {
     implementation("com.zaxxer:HikariCP:3.4.5")
     implementation("org.xeustechnologies:jcl-core:2.8")
     implementation("de.vandermeer:asciitable:0.3.2")
-    implementation("com.github.excitement-engineer:ktor-graphql:2.0.1") {
+    implementation("com.github.excitement-engineer:ktor-graphql:2.1.0") {
         exclude("org.apache.logging.log4j", "log4j-slf4j-impl")
     }
     implementation("com.tgirard12:graphql-kotlin-dsl:1.2.0") {
