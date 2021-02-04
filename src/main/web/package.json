@@ -22,7 +22,7 @@
     "webpack-cli": "^4.0.0"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.15.1",
+    "@fortawesome/fontawesome-free": "^5.15.2",
     "@sweetalert2/theme-bulma": "^4.0.0",
     "bulma": "^0.9.1",
     "bulma-checkradio": "^1.1.1",
