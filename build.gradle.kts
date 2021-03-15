@@ -7,7 +7,7 @@ plugins {
     java
     id("org.springframework.boot") version "2.4.2"
     id("io.spring.dependency-management") version "1.0.11.RELEASE"
-    id("com.github.node-gradle.node") version "2.2.4"
+    id("com.github.node-gradle.node") version "3.0.1"
     id("org.jetbrains.dokka") version "1.4.20"
     //id("com.github.ksoichiro.build.info") version "0.2.0"
     id("com.gorylenko.gradle-git-properties" ) version "2.2.3"
