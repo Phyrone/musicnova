@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.1",
-    "@sweetalert2/theme-bulma": "^4.0.0",
+    "@sweetalert2/theme-bulma": "^4.0.1",
     "bulma": "^0.9.1",
     "bulma-checkradio": "^1.1.1",
     "bulma-slider": "^2.0.4",
