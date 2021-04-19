@@ -82,7 +82,7 @@ dependencies {
 
     //implementation("org.apache.commons:commons-text:1.9")
     //implementation("com.moandjiezana.toml:toml4j:0.7.1")
-    implementation(group = "com.uchuhimo", name = "konf", version = "0.23.0")
+    implementation(group = "com.uchuhimo", name = "konf", version = "1.1.2")
     /*
     listOf(
         "konf-core",
