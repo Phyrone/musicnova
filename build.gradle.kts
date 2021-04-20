@@ -115,7 +115,7 @@ dependencies {
     implementation("org.greenrobot:eventbus:3.2.0")
     //implementation("com.github.pemistahl:lingua:1.0.1")
     implementation("de.sfuhrm:radiobrowser4j:2.1.0")
-    implementation("me.tongfei:progressbar:0.9.0")
+    implementation("me.tongfei:progressbar:0.9.1")
     implementation("com.sedmelluq:lavaplayer:1.3.73")
     implementation("com.github.theholywaffle:teamspeak3-api:1.2.0")
     implementation("com.github.manevolent:ts3j:1.0.2")
