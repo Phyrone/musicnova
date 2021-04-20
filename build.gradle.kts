@@ -120,7 +120,7 @@ dependencies {
     implementation("com.github.theholywaffle:teamspeak3-api:1.2.0")
     implementation("com.github.manevolent:ts3j:1.0.2")
     implementation("net.dv8tion:JDA:4.2.0_230")
-    implementation("com.github.Phyrone:brigardier-kotlin:1.4.0")
+    implementation("com.github.Phyrone:brigardier-kotlin:1.4.1")
     implementation("com.zaxxer:HikariCP:3.4.5")
     implementation("org.xeustechnologies:jcl-core:2.8")
     implementation("de.vandermeer:asciitable:0.3.2")
