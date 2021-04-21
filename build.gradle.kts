@@ -170,7 +170,7 @@ dependencies {
     implementation("org.jgrapht:jgrapht-core:1.5.0")
     implementation("com.jcabi:jcabi-manifests:1.1")
     implementation("com.google.jimfs:jimfs:1.2")
-    implementation("com.google.auto.factory:auto-factory:1.0")
+    implementation("com.google.auto.factory:auto-factory:1.0.1")
     //kapt("com.google.auto.factory:auto-factory:1.0-beta8")
     implementation("com.google.auto.service:auto-service:1.0")
     //kapt("com.google.auto.service:auto-service:1.0-rc7")
