@@ -65,7 +65,7 @@ dependencies {
 
     implementation(project(":musicnova-shared"))
 
-    implementation("io.sentry:sentry-logback:3.2.1")
+    implementation("io.sentry:sentry-logback:4.3.0")
     /*implementation("io.sentry:sentry-spring-boot-starter:3.0.0"){
         exclude(module = "spring-web")
         exclude(module = "spring-webmvc")
