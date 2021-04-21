@@ -150,7 +150,7 @@ dependencies {
     implementation("org.inferred:freebuilder:2.6.1")
 
     implementation("org.jline:jline:3.19.0")
-    implementation("net.java.dev.jna:jna:5.7.0")
+    implementation("net.java.dev.jna:jna:5.8.0")
 
     implementation("com.eclipsesource.j2v8:j2v8_linux_x86_64:6.2.0")
     implementation("com.eclipsesource.j2v8:j2v8_win32_x86_64:4.6.0")
