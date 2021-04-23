@@ -24,7 +24,7 @@ dependencies {
     implementation(npm("dropzone", "5.7.2"))
     implementation(npm("@types/dropzone", "5.7.1", false))
     implementation(npm("@types/chart.js","2.9.24",false))
-    implementation("org.jetbrains.kotlinx:kotlinx-html-js:0.7.2")
+    implementation("org.jetbrains.kotlinx:kotlinx-html-js:0.7.3")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core-js:1.4.3")
 }
 
